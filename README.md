@@ -1,0 +1,1 @@
+This repository demonstrates a potential issue when using std::vector<bool>.  The optimized implementation of std::vector<bool> can lead to unexpected behavior compared to other vector types.  The 'bug.cpp' file shows an example of this, and 'bugSolution.cpp' shows how to solve the problem.

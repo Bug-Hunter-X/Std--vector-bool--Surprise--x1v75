@@ -1,0 +1,3 @@
+std::vector<bool> vec; // ...some operations...
+bool b = vec.at(index); // use at() for bounds checking
+if (index >= 0 && index < vec.size()){ bool b = vec[index];} //check index range before access
